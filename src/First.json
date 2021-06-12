@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "emp_name": "vikram",
+    "age": 25,
+    "city": "mumbai"
+  },
+  {
+    "id": 1,
+    "emp_name": "vikram",
+    "age": 25,
+    "city": "bangalore"
+  },
+  {
+    "id": 1,
+    "emp_name": "vikram",
+    "age": 25,
+    "city": "chennai"
+  }
+]

@@ -1,0 +1,15 @@
+[
+  { "name": "vikram", "age": 100, "city": "Bangalore", "status": "active" },
+  { "name": "Linux", "age": 100, "city": "kozhikode", "status": "active" },
+  { "name": "vinesh", "age": 100, "city": "Delhi", "status": "inactive" },
+  { "name": "vinesh", "age": 100, "city": "Delhi", "status": "inactive" },
+  {
+    "name": "chitnesh",
+    "age": 100,
+    "city": "Trivandrum",
+    "status": "inactive"
+  },
+  { "name": "vinesh", "age": 100, "city": "Delhi", "status": "inactive" },
+
+  { "name": "abc", "age": 100, "city": "ncr", "status": "inactive" }
+]

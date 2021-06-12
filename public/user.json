@@ -1,0 +1,21 @@
+[
+  { "name": "vikram", "age": 100, "city": "Bangalore", "status": "active" },
+  { "name": "Linux", "age": 100, "city": "kozhikode", "status": "active" },
+  { "name": "vinesh", "age": 100, "city": "Delhi", "status": "inactive" },
+  { "name": "vinesh", "age": 100, "city": "Delhi", "status": "inactive" },
+  { "name": "vinesh", "age": 100, "city": "Delhi", "status": "inactive" },
+  { "name": "vinesh", "age": 100, "city": "Delhi", "status": "inactive" },
+  { "name": "vinesh", "age": 100, "city": "Delhi", "status": "inactive" },
+  { "name": "vinesh", "age": 100, "city": "Delhi", "status": "inactive" },
+  { "name": "vinesh", "age": 100, "city": "Delhi", "status": "inactive" },
+  {
+    "name": "chitnesh",
+    "age": 100,
+    "city": "Trivandrum",
+    "status": "inactive"
+  },
+  { "name": "abc", "age": 100, "city": "hi", "status": "inactive" },
+  { "name": "def", "age": 100, "city": "haha", "status": "inactive" },
+  { "name": "xyz", "age": 100, "city": "hahahah", "status": "active" },
+  { "name": "Tom", "age": 100, "city": "Trivandrum", "status": "inactive" }
+]
